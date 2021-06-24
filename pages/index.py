@@ -16,13 +16,16 @@ column1 = dbc.Col(
         dcc.Markdown(
             """
         
-            ## Your Value Proposition
+            ## What 'ESRB' rating will a game receive?
 
-            Emphasize how the app will benefit users. Don't emphasize the underlying technology.
+            Video games are incredibly popular amongst childreen, teens, and even adults. But with such a wide variety of content, it's
+            important to monitor what age group is appropriate for each game.
 
-            ✅ RUN is a running app that adapts to your fitness levels and designs personalized workouts to help you improve your running.
+            This app will help predict a video games rating based on its content.
 
-            ❌ RUN is the only intelligent running app that uses sophisticated deep neural net machine learning to make your run smarter because we believe in ML driven workouts.
+            
+
+        
 
             """
         ),
